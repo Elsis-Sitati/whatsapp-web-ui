@@ -2,3 +2,9 @@ div#row1 {
     height: 20%;
     background-color: #20b2aa;
 }
+
+div#row2 {
+    height: 86%;
+    margin-top: -9%;
+    width: 85%;
+}
