@@ -2,7 +2,6 @@ div#row1 {
     height: 20%;
     background-color: #20b2aa;
 }
-
 div#row2 {
     height: 86%;
     margin-top: -9%;
@@ -22,11 +21,11 @@ img#envelope {
     height: 30px;
     width: 30px;
     padding-left: 0%;
-    
 }
 div#enveloper {
     float: left;
     padding-left: 38%;
+    padding-top: 8px;
 }
 div#avatar {
     float: left;
