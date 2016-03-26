@@ -35,3 +35,6 @@ div#contacts {
     background-color: #EEEEEE;
     height: 13%;
 }
+input[type="search"] {
+    width: 162%;
+}
