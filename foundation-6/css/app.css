@@ -8,3 +8,30 @@ div#row2 {
     margin-top: -9%;
     width: 85%;
 }
+div#nums {
+    /* background-color: purple; */
+    height: 100%;
+}
+img {
+    height: 50px;
+    width: 50px;
+    border-radius: 26px;
+    padding-right: 0%;
+}
+img#envelope {
+    height: 30px;
+    width: 30px;
+    padding-left: 0%;
+    
+}
+div#enveloper {
+    float: left;
+    padding-left: 38%;
+}
+div#avatar {
+    float: left;
+}
+div#contacts {
+    background-color: #EEEEEE;
+    height: 13%;
+}
