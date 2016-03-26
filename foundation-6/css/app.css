@@ -30,6 +30,8 @@ div#enveloper {
 }
 div#avatar {
     float: left;
+    padding-left: 5%;
+    padding-top: 2%;
 }
 div#contacts {
     background-color: #EEEEEE;
@@ -37,4 +39,20 @@ div#contacts {
 }
 input[type="search"] {
     width: 162%;
+}
+div#chats {
+    background-color: white;
+    height: 16%;
+}
+hr {
+    margin-top: 6%;
+}
+div#contactName {
+    float: left;
+    width: 76%;
+    padding-left: 14%;
+}
+h3 {
+    font-size: 19px;
+    padding-top: 10px;
 }
