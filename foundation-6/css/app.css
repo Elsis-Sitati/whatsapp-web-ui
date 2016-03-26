@@ -11,7 +11,7 @@ div#nums {
     /* background-color: purple; */
     height: 100%;
 }
-img {
+img#ppic{
     height: 50px;
     width: 50px;
     border-radius: 26px;
@@ -54,4 +54,7 @@ div#contactName {
 h3 {
     font-size: 19px;
     padding-top: 10px;
+}
+div#image {
+    background-image: url(../img/whatsapp.png);
 }
