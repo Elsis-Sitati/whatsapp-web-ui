@@ -56,5 +56,14 @@ h3 {
     padding-top: 10px;
 }
 div#image {
-    background-image: url(../img/whatsapp.png);
+    height: 100%;    
+}
+img#whatsappPic {
+    height: 100%;
+    width: 100%;
+}
+
+div#color {
+    background-color: green;
+    height: 11px;
 }
